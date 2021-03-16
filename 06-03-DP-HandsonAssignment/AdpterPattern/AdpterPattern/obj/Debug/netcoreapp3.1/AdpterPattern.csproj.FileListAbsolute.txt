@@ -1,0 +1,13 @@
+C:\Users\VAMSHI DUDDU\source\repos\AdpterPattern\AdpterPattern\bin\Debug\netcoreapp3.1\AdpterPattern.exe
+C:\Users\VAMSHI DUDDU\source\repos\AdpterPattern\AdpterPattern\bin\Debug\netcoreapp3.1\AdpterPattern.deps.json
+C:\Users\VAMSHI DUDDU\source\repos\AdpterPattern\AdpterPattern\bin\Debug\netcoreapp3.1\AdpterPattern.runtimeconfig.json
+C:\Users\VAMSHI DUDDU\source\repos\AdpterPattern\AdpterPattern\bin\Debug\netcoreapp3.1\AdpterPattern.runtimeconfig.dev.json
+C:\Users\VAMSHI DUDDU\source\repos\AdpterPattern\AdpterPattern\bin\Debug\netcoreapp3.1\AdpterPattern.dll
+C:\Users\VAMSHI DUDDU\source\repos\AdpterPattern\AdpterPattern\bin\Debug\netcoreapp3.1\AdpterPattern.pdb
+C:\Users\VAMSHI DUDDU\source\repos\AdpterPattern\AdpterPattern\obj\Debug\netcoreapp3.1\AdpterPattern.csprojAssemblyReference.cache
+C:\Users\VAMSHI DUDDU\source\repos\AdpterPattern\AdpterPattern\obj\Debug\netcoreapp3.1\AdpterPattern.AssemblyInfoInputs.cache
+C:\Users\VAMSHI DUDDU\source\repos\AdpterPattern\AdpterPattern\obj\Debug\netcoreapp3.1\AdpterPattern.AssemblyInfo.cs
+C:\Users\VAMSHI DUDDU\source\repos\AdpterPattern\AdpterPattern\obj\Debug\netcoreapp3.1\AdpterPattern.csproj.CoreCompileInputs.cache
+C:\Users\VAMSHI DUDDU\source\repos\AdpterPattern\AdpterPattern\obj\Debug\netcoreapp3.1\AdpterPattern.dll
+C:\Users\VAMSHI DUDDU\source\repos\AdpterPattern\AdpterPattern\obj\Debug\netcoreapp3.1\AdpterPattern.pdb
+C:\Users\VAMSHI DUDDU\source\repos\AdpterPattern\AdpterPattern\obj\Debug\netcoreapp3.1\AdpterPattern.genruntimeconfig.cache

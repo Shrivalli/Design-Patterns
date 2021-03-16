@@ -1,0 +1,13 @@
+C:\Users\VAMSHI DUDDU\source\repos\FacadeDP\FacadeDP\bin\Debug\netcoreapp3.1\FacadeDP.exe
+C:\Users\VAMSHI DUDDU\source\repos\FacadeDP\FacadeDP\bin\Debug\netcoreapp3.1\FacadeDP.deps.json
+C:\Users\VAMSHI DUDDU\source\repos\FacadeDP\FacadeDP\bin\Debug\netcoreapp3.1\FacadeDP.runtimeconfig.json
+C:\Users\VAMSHI DUDDU\source\repos\FacadeDP\FacadeDP\bin\Debug\netcoreapp3.1\FacadeDP.runtimeconfig.dev.json
+C:\Users\VAMSHI DUDDU\source\repos\FacadeDP\FacadeDP\bin\Debug\netcoreapp3.1\FacadeDP.dll
+C:\Users\VAMSHI DUDDU\source\repos\FacadeDP\FacadeDP\bin\Debug\netcoreapp3.1\FacadeDP.pdb
+C:\Users\VAMSHI DUDDU\source\repos\FacadeDP\FacadeDP\obj\Debug\netcoreapp3.1\FacadeDP.csprojAssemblyReference.cache
+C:\Users\VAMSHI DUDDU\source\repos\FacadeDP\FacadeDP\obj\Debug\netcoreapp3.1\FacadeDP.AssemblyInfoInputs.cache
+C:\Users\VAMSHI DUDDU\source\repos\FacadeDP\FacadeDP\obj\Debug\netcoreapp3.1\FacadeDP.AssemblyInfo.cs
+C:\Users\VAMSHI DUDDU\source\repos\FacadeDP\FacadeDP\obj\Debug\netcoreapp3.1\FacadeDP.csproj.CoreCompileInputs.cache
+C:\Users\VAMSHI DUDDU\source\repos\FacadeDP\FacadeDP\obj\Debug\netcoreapp3.1\FacadeDP.dll
+C:\Users\VAMSHI DUDDU\source\repos\FacadeDP\FacadeDP\obj\Debug\netcoreapp3.1\FacadeDP.pdb
+C:\Users\VAMSHI DUDDU\source\repos\FacadeDP\FacadeDP\obj\Debug\netcoreapp3.1\FacadeDP.genruntimeconfig.cache
